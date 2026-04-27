@@ -90,6 +90,16 @@ Nmap helps attackers:
 ## Security Conclusion
 This lab demonstrates how attackers progress from information gathering to exploitation. Proper security controls such as input validation, secure configurations, and monitoring are essential to prevent these attacks.
 
+## Skills Demonstrated
+- Cybersecurity reconnaissance using DNS enumeration
+- Network scanning and service identification using Nmap
+- Web application penetration testing using WebGoat
+- Exploitation of OWASP Top 10 vulnerabilities (XSS, SQL Injection, CSRF)
+- Understanding of memory-based vulnerabilities (Buffer Overflow)
+
+## Real-World Relevance
+This lab demonstrates how attackers move from information gathering to exploitation. It highlights the importance of securing web applications, validating inputs, and protecting network services.
+
 ## Author
 Denish Adhikari  
 Cybersecurity Student | Information Security & Penetration Testing Fundamentals
